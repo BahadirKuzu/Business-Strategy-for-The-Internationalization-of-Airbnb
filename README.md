@@ -1,4 +1,4 @@
-# Business Strategy for The Internationalization of Airbnb
+# Business Strategy for the Internationalization of Airbnb
 
 ## Objective:
 This project delves into Airbnb's internationalization strategy, analyzing its evolution from a local startup to a global hospitality leader. The objective is to explore the key components of Airbnb's business strategy for international expansion, including market selection, entry strategies, regulatory compliance, partnerships, and technological adaptations.
